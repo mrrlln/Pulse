@@ -1,10 +1,10 @@
 # **Jarvis**
 Final project for the Building AI course
 
-# **Summary**
+# ##Summary
 Denna AI-ide handlar om att utveckla en progressivt lärande AI-kompanjon som kontinuerligt förbättrar sin förmåga att hjälpa och anpassa sig till användaren baserat på deras interationer och data. 
 
-# **Background**
+# ##Background
 Detta ämne representerar nästa steg i interationen mellan människa och dator. Det handlar om mer än att automatisera uppgifter, utan mer om att skapa en relation där AI:n blir en förlängling av användarens egna förmågor och färdigheter, och finns även där som en källa till kontinuerlig förbättring.
 
 Detta kan hjälpa all de som söker anpassad hjälp och stöd i vardagen, under alla möjliga tillfällen och miljöer. Det ökar lärande och intagning av nya ämnen och information, produktivitet, personlig utveckling etc.
